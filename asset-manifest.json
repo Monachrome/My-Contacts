@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/My-Contacts/static/js/main.8cc4446f.chunk.js",
+    "main.js.map": "/My-Contacts/static/js/main.8cc4446f.chunk.js.map",
+    "runtime-main.js": "/My-Contacts/static/js/runtime-main.9104d340.js",
+    "runtime-main.js.map": "/My-Contacts/static/js/runtime-main.9104d340.js.map",
+    "static/js/2.09df5970.chunk.js": "/My-Contacts/static/js/2.09df5970.chunk.js",
+    "static/js/2.09df5970.chunk.js.map": "/My-Contacts/static/js/2.09df5970.chunk.js.map",
+    "index.html": "/My-Contacts/index.html",
+    "precache-manifest.c78e2c4c7308e5a4ef1457e32cbecf36.js": "/My-Contacts/precache-manifest.c78e2c4c7308e5a4ef1457e32cbecf36.js",
+    "service-worker.js": "/My-Contacts/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9104d340.js",
+    "static/js/2.09df5970.chunk.js",
+    "static/js/main.8cc4446f.chunk.js"
+  ]
+}
